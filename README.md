@@ -16,7 +16,29 @@ Full-stack developer with 15+ years of hands-on web development, starting as a f
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,py,django,flask,js,vue,astro,html,css,bootstrap,tailwind,mysql,postgres,sqlite,docker,nginx,linux,git,github,wordpress)](https://skillicons.dev)
+<p align="left">
+  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://flask.palletsprojects.com" alt="Flask" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" /></a>
+  <a href="https://astro.build/" target="_blank"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://nginx.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" /></a>
+  <a href="https://www.kernel.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://wordpress.org/" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" /></a>
+</p>
 
 **Also:** Moodle (architecture and custom plugins), RESTful APIs, prompt engineering, FileMaker.
 
@@ -27,7 +49,7 @@ Full-stack developer with 15+ years of hands-on web development, starting as a f
 | Project | Stack | What it does |
 |---|---|---|
 | **Masarat** – Daily Attendance & Schedule System | PHP, JavaScript, SQLite | Automatic absence and attendance percentages per class, interactive weekly timetables, print-ready reports, role-based access (Admin, Supervisor, Department Head) |
-| [**Educational Guidance System**](https://moefr.net) | PHP | Central data platform for the Technical Supervision of French Language in Kuwait: 150+ schools, exam and item analysis, staff supervision, budget allocation |
+| [**Educational Guidance System**](https://moefr.net) | PHP, Laravel | Central data platform for the Technical Supervision of French Language in Kuwait: 150+ schools, exam and item analysis, staff supervision, budget allocation |
 | [**Secondary School Principals Council Portal**](https://farwanyasc.com) | PHP, Wordpress, custom plugins | Administrative app for school budgets, staffing density and student transfer workflows |
 | [**CodeMentorBot**](https://codementorbot.com) | Python, Flask, Vue.js, LLM | Ph.D. research: chatbot-based learning environment to enhance advanced programming skills and reducing mind-wandering among high high school students with corrective and adaptive feedback |
 | [**Skill-Up Arabic**](https://skilluplang.com) | Python, Flask, Vue.js, LLM APIs | Arabic learning platform with automated, criteria-based formative self-assessment |
