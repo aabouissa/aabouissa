@@ -21,7 +21,7 @@ Full-stack developer with 15+ years of hands-on web development, starting as a f
   <a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://flask.palletsprojects.com" alt="Flask" /></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" alt="Flask" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" /></a>
   <a href="https://astro.build/" target="_blank"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" /></a>
