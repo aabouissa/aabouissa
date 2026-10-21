@@ -28,9 +28,9 @@ Full-stack developer with 15+ years of hands-on web development, starting as a f
 |---|---|---|
 | **Masarat** – Daily Attendance & Schedule System | PHP, JavaScript, SQLite | Automatic absence and attendance percentages per class, interactive weekly timetables, print-ready reports, role-based access (Admin, Supervisor, Department Head) |
 | [**Educational Guidance System**](https://moefr.net) | PHP | Central data platform for the Technical Supervision of French Language in Kuwait: 150+ schools, exam and item analysis, staff supervision, budget allocation |
-| [**Secondary School Principals Council Portal**](https://farwanyasc.com) | PHP | Administrative app for school budgets, staffing density and student transfer workflows |
-| [**CodeMentorBot**](https://codementorbot.com) | Python, LLM | Ph.D. research: chatbot-driven platform teaching Python to high school students with adaptive feedback |
-| [**Skill-Up Arabic**](https://skilluplang.com) | LLM APIs | Arabic learning platform with automated, criteria-based formative self-assessment |
+| [**Secondary School Principals Council Portal**](https://farwanyasc.com) | PHP, Wordpress, custom plugins | Administrative app for school budgets, staffing density and student transfer workflows |
+| [**CodeMentorBot**](https://codementorbot.com) | Python, Flask, Vue.js, LLM | Ph.D. research: chatbot-based learning environment to enhance advanced programming skills and reducing mind-wandering among high high school students with corrective and adaptive feedback |
+| [**Skill-Up Arabic**](https://skilluplang.com) | Python, Flask, Vue.js, LLM APIs | Arabic learning platform with automated, criteria-based formative self-assessment |
 
 ---
 
@@ -45,8 +45,8 @@ Full-stack developer with 15+ years of hands-on web development, starting as a f
 
 ### Connect with Me
 
-<a href="https://github.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/aabouissa" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/aabouissa" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://olomweb.com" target="_blank"><img src="https://img.shields.io/badge/website-olomweb.com-4c1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="mailto:abouissa.ahmad@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
